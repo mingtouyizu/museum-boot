@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xxl-job-core" />
+        <module name="lamp-security-sdk" />
+        <module name="lamp-authority-controller" />
+        <module name="lamp-file-sdk" />
+        <module name="lamp-authority-biz" />
+        <module name="lamp-core" />
+        <module name="museum-job-controller" />
+        <module name="lamp-sms-biz" />
+        <module name="museum-job-biz" />
+        <module name="lamp-saas-mode" />
+        <module name="lamp-jwt-starter" />
+        <module name="lamp-log-starter" />
+        <module name="lamp-extend-executor" />
+        <module name="lamp-mvc" />
+        <module name="lamp-common-api" />
+        <module name="xxl-job-admin" />
+        <module name="lamp-file-biz" />
+        <module name="lamp-tenant-controller" />
+        <module name="lamp-tenant-entity" />
+        <module name="lamp-uid" />
+        <module name="museum-job-entity" />
+        <module name="lamp-msg-controller" />
+        <module name="lamp-common" />
+        <module name="lamp-mq-starter" />
+        <module name="lamp-boot-server" />
+        <module name="lamp-msg-biz" />
+        <module name="lamp-xss-starter" />
+        <module name="lamp-file-controller" />
+        <module name="lamp-msg-entity" />
+        <module name="lamp-tenant-biz" />
+        <module name="lamp-echo-starter" />
+        <module name="lamp-cache-starter" />
+        <module name="lamp-cloud-starter" />
+        <module name="lamp-boot-util" />
+        <module name="lamp-all" />
+        <module name="lamp-annotation" />
+        <module name="lamp-authority-entity" />
+        <module name="lamp-validator-starter" />
+        <module name="lamp-swagger2-starter" />
+        <module name="lamp-base-executor" />
+        <module name="lamp-oauth-biz" />
+        <module name="lamp-oauth-controller" />
+        <module name="lamp-databases" />
+        <module name="lamp-file-entity" />
+        <module name="lamp-sms-controller" />
+        <module name="lamp-dozer-starter" />
+        <module name="lamp-userinfo-sdk" />
+        <module name="lamp-model" />
+        <module name="lamp-generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lamp-file (1)" target="1.8" />
+      <module name="lamp-file (2)" target="1.8" />
+      <module name="lamp-file-controller (1)" target="1.8" />
+      <module name="lamp-file-controller (1) (top.tangyh.lamp)" target="1.8" />
+      <module name="lamp-file-controller (2)" target="1.8" />
+      <module name="lamp-file-controller (2) (cn.edu.uestc.museum)" target="1.8" />
+      <module name="lamp-video" target="1.8" />
+      <module name="lamp-video-biz" target="1.8" />
+      <module name="lamp-video-controller" target="1.8" />
+      <module name="lamp-video-entity" target="1.8" />
+      <module name="musuem-job-biz" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lamp-all" options="-parameters" />
+      <module name="lamp-annotation" options="-parameters" />
+      <module name="lamp-authority" options="-parameters" />
+      <module name="lamp-authority-biz" options="-parameters" />
+      <module name="lamp-authority-controller" options="-parameters" />
+      <module name="lamp-authority-entity" options="-parameters" />
+      <module name="lamp-boot-server" options="-parameters" />
+      <module name="lamp-boot-util" options="-parameters" />
+      <module name="lamp-cache-starter" options="-parameters" />
+      <module name="lamp-cloud-starter" options="-parameters" />
+      <module name="lamp-common" options="-parameters" />
+      <module name="lamp-common-api" options="-parameters" />
+      <module name="lamp-core" options="-parameters" />
+      <module name="lamp-databases" options="-parameters" />
+      <module name="lamp-dependencies-parent" options="-parameters" />
+      <module name="lamp-dozer-starter" options="-parameters" />
+      <module name="lamp-echo-starter" options="-parameters" />
+      <module name="lamp-file" options="-parameters" />
+      <module name="lamp-file (1)" options="-parameters" />
+      <module name="lamp-file (2)" options="-parameters" />
+      <module name="lamp-file-biz" options="-parameters" />
+      <module name="lamp-file-controller" options="-parameters" />
+      <module name="lamp-file-controller (1)" options="-parameters" />
+      <module name="lamp-file-controller (1) (top.tangyh.lamp)" options="-parameters" />
+      <module name="lamp-file-entity" options="-parameters" />
+      <module name="lamp-file-sdk" options="-parameters" />
+      <module name="lamp-generator" options="-parameters" />
+      <module name="lamp-jwt-starter" options="-parameters" />
+      <module name="lamp-log-starter" options="-parameters" />
+      <module name="lamp-model" options="-parameters" />
+      <module name="lamp-mq-starter" options="-parameters" />
+      <module name="lamp-msg" options="-parameters" />
+      <module name="lamp-msg-biz" options="-parameters" />
+      <module name="lamp-msg-controller" options="-parameters" />
+      <module name="lamp-msg-entity" options="-parameters" />
+      <module name="lamp-mvc" options="-parameters" />
+      <module name="lamp-oauth" options="-parameters" />
+      <module name="lamp-oauth-biz" options="-parameters" />
+      <module name="lamp-oauth-controller" options="-parameters" />
+      <module name="lamp-parent" options="-parameters" />
+      <module name="lamp-public" options="-parameters" />
+      <module name="lamp-saas-mode" options="-parameters" />
+      <module name="lamp-security-sdk" options="-parameters" />
+      <module name="lamp-sms-biz" options="-parameters" />
+      <module name="lamp-sms-controller" options="-parameters" />
+      <module name="lamp-swagger2-starter" options="-parameters" />
+      <module name="lamp-tenant" options="-parameters" />
+      <module name="lamp-tenant-biz" options="-parameters" />
+      <module name="lamp-tenant-controller" options="-parameters" />
+      <module name="lamp-tenant-entity" options="-parameters" />
+      <module name="lamp-uid" options="-parameters" />
+      <module name="lamp-userinfo-sdk" options="-parameters" />
+      <module name="lamp-util" options="-parameters" />
+      <module name="lamp-validator-starter" options="-parameters" />
+      <module name="lamp-video" options="-parameters" />
+      <module name="lamp-video-biz" options="-parameters" />
+      <module name="lamp-video-controller" options="-parameters" />
+      <module name="lamp-video-entity" options="-parameters" />
+      <module name="lamp-xss-starter" options="-parameters" />
+      <module name="museum-job" options="-parameters" />
+      <module name="museum-job-biz" options="-parameters" />
+      <module name="museum-job-controller" options="-parameters" />
+      <module name="museum-job-entity" options="-parameters" />
+    </option>
+  </component>
+</project>

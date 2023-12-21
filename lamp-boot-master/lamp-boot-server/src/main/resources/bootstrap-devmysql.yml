@@ -1,0 +1,11 @@
+lamp:
+  database:
+    p6spy: true
+
+logging:
+  file:
+    path: c:\\logs
+  config: classpath:logback-spring-dev.xml
+  level:
+    service: debug
+    controller: debug
