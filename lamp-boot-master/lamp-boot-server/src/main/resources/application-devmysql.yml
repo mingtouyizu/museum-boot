@@ -2,7 +2,7 @@ lamp:
   cache:
     type: REDIS
   redis:
-    ip: 192.168.1.242
+    ip: 127.0.0.1
     port: 6379
     password: "woaidianzikedaqaq"
     database: 0

@@ -41,9 +41,9 @@
             <version>${lamp-project.version}</version>
         </dependency>
         <dependency>
-            <groupId>top.tangyh.lamp</groupId>
-            <artifactId>lamp-video-controller</artifactId>
-            <version>${lamp-project.version}</version>
+            <groupId>cn.edu.uestc.museum.boot</groupId>
+            <artifactId>museum-job-controller</artifactId>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>top.tangyh.lamp</groupId>
@@ -91,8 +91,16 @@
         </dependency>
 
         <dependency>
-            <groupId>cn.edu.uestc.museum.boot</groupId>
-            <artifactId>museum-job-controller</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-commons</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>top.tangyh.basic</groupId>
+            <artifactId>lamp-validator-starter</artifactId>
         </dependency>
     </dependencies>
 

@@ -41,6 +41,10 @@
             <optional>true</optional>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>top.tangyh.basic</groupId>
+            <artifactId>lamp-core</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

@@ -16,8 +16,8 @@ import top.tangyh.basic.validator.annotation.EnableFormValidator;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import static top.tangyh.lamp.common.constant.BizConstant.BUSINESS_PACKAGE;
-import static top.tangyh.lamp.common.constant.BizConstant.UTIL_PACKAGE;
+import static top.tangyh.lamp.common.constant.BizConstant.*;
+
 
 /**
  * https://mp.weixin.qq.com/s/zkxI5IQP0jFTjVYe5pTsXw
@@ -27,13 +27,11 @@ import static top.tangyh.lamp.common.constant.BizConstant.UTIL_PACKAGE;
  * @author zuihou
  * @date 2018-01-13 1:34
  */
-@SpringBootApplication(exclude = {
-        DataSourceAutoConfiguration.class
-})
+@SpringBootApplication
 @EnableDiscoveryClient
 @Configuration
-@ComponentScan({
-        UTIL_PACKAGE, BUSINESS_PACKAGE
+@ComponentScan(basePackages = {
+         UTIL_PACKAGE, BUSINESS_PACKAGE
 })
 @EnableFeignClients(value = {
         UTIL_PACKAGE, BUSINESS_PACKAGE

@@ -2,36 +2,66 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/lamp-authority-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-authority/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-boot-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-boot-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-dependencies-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-dependencies-parent/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/lamp-file-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-file/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-msg-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-sms-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-sms-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-sms-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/lamp-sms-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-msg/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/lamp-oauth-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/lamp-oauth-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/lamp-oauth-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/lamp-oauth-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-oauth/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-common-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-file-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-file-sdk/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-saas-mode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-saas-mode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-security-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-security-sdk/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-userinfo-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/lamp-userinfo-sdk/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-public/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/lamp-tenant-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-tenant/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-video/lamp-video-biz/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-video/lamp-video-controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lamp-boot-master/lamp-video/lamp-video-entity/src/main/java" charset="UTF-8" />

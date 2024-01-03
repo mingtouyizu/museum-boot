@@ -88,7 +88,7 @@
       <module name="lamp-common-api" options="-parameters" />
       <module name="lamp-core" options="-parameters" />
       <module name="lamp-databases" options="-parameters" />
-      <module name="lamp-dependencies-parent" options="-parameters" />
+      <module name="lamp-dependencies-parent" options="" />
       <module name="lamp-dozer-starter" options="-parameters" />
       <module name="lamp-echo-starter" options="-parameters" />
       <module name="lamp-file" options="-parameters" />
